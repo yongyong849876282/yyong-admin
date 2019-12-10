@@ -1,17 +1,12 @@
 <h1 style="text-align: center">yyong-admin 后台管理系统</h1>
 
-该项目最初来自   [https://github.com/elunez/eladmin.git/](https://github.com/elunez/eladmin.git)
 
 
+http://127.0.0.1:8222/swagger-ui.html
 
 #### 项目简介
 eladmin基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统， 权限控制的方式为RBAC，项目支持数据字典与数据权限管理，支持一键生成前后端代码，支持前端菜单动态路由
 
-**开发文档**  [https://docs.auauz.net/](https://docs.auauz.net)
-
-**体验地址**  [https://auauz.net/](https://auauz.net/)
-
-**账号密码** ```admin/123456```(默认密码都是123456)
 
 #### 项目源码
 
