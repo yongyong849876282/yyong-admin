@@ -36,7 +36,9 @@ public class EmailController {
     @PutMapping
     @ApiOperation("配置邮件")
     public ResponseEntity emailConfig(@Validated @RequestBody EmailConfig emailConfig){
-        emailService.update(emailConfig,emailService.find());
+
+        EmailConfig one = emailService.find();
+        emailService.update(emailConfig,one);
         return new ResponseEntity(HttpStatus.OK);
     }
 

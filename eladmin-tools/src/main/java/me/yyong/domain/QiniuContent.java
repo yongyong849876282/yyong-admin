@@ -9,7 +9,7 @@ import java.sql.Timestamp;
 
 /**
  * 上传成功后，存储结果
- * @author Zheng Jie
+ * @author 披着床单的小王子
  * @date 2018-12-31
  */
 @Data

@@ -4,7 +4,7 @@ import me.yyong.domain.VerificationCode;
 import me.yyong.domain.vo.EmailVo;
 
 /**
- * @author Zheng Jie
+ * @author 披着床单的小王子
  * @date 2018-12-26
  */
 public interface VerificationCodeService {

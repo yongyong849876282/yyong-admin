@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
 
 /**
- * @author Zheng Jie
+ * @author 披着床单的小王子
  * @date 2018-12-31
  */
 public interface QiNiuConfigRepository extends JpaRepository<QiniuConfig,Long> {

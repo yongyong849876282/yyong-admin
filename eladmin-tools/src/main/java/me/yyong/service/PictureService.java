@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.util.List;
 
 /**
- * @author Zheng Jie
+ * @author 披着床单的小王子
  * @date 2018-12-27
  */
 public interface PictureService {

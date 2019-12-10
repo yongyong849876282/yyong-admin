@@ -4,7 +4,7 @@ import me.yyong.domain.AlipayConfig;
 import me.yyong.domain.vo.TradeVo;
 
 /**
- * @author Zheng Jie
+ * @author 披着床单的小王子
  * @date 2018-12-31
  */
 public interface AlipayService {

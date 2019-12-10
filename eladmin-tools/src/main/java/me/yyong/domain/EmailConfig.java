@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  * 邮件配置类，数据存覆盖式存入数据存
- * @author Zheng Jie
+ * @author 披着床单的小王子
  * @date 2018-12-26
  */
 @Entity
@@ -17,6 +17,8 @@ import java.io.Serializable;
 public class EmailConfig implements Serializable {
 
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id")
     private Long id;
 
     // 邮件服务器SMTP地址
