@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * 列的数据信息
- * @author Zheng Jie
+ * @author 披着床单的小王子
  * @date 2019-01-02
  */
 @Data

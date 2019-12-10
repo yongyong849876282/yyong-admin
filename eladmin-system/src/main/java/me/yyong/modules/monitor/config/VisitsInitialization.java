@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * 初始化站点统计
- * @author Zheng Jie
+ * @author 披着床单的小王子
  */
 @Component
 public class VisitsInitialization implements ApplicationRunner {

@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
-* @author Zheng Jie
+* @author 披着床单的小王子
 * @date 2019-03-25
 */
 public interface DeptRepository extends JpaRepository<Dept, Long>, JpaSpecificationExecutor<Dept> {

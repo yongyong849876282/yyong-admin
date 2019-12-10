@@ -20,7 +20,7 @@ import java.util.Map;
 
 /**
  * File工具类，扩展 hutool 工具包
- * @author Zheng Jie
+ * @author 披着床单的小王子
  * @date 2018-12-27
  */
 public class FileUtil extends cn.hutool.core.io.FileUtil {

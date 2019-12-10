@@ -143,7 +143,7 @@ CREATE TABLE `gen_config`  (
 -- ----------------------------
 -- Records of gen_config
 -- ----------------------------
-INSERT INTO `gen_config` VALUES (1, 'Zheng Jie', b'0', 'eladmin-system', 'me.zhengjie.test', 'E:\\workspace\\me\\front\\eladmin-qt\\src\\views\\test1111', 'E:\\workspace\\me\\front\\eladmin-qt\\src\\api', NULL);
+INSERT INTO `gen_config` VALUES (1, '披着床单的小王子', b'0', 'eladmin-system', 'me.zhengjie.test', 'E:\\workspace\\me\\front\\eladmin-qt\\src\\views\\test1111', 'E:\\workspace\\me\\front\\eladmin-qt\\src\\api', NULL);
 
 -- ----------------------------
 -- Table structure for job

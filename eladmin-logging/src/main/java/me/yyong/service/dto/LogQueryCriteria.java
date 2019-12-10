@@ -7,7 +7,7 @@ import java.sql.Timestamp;
 
 /**
  * 日志查询类
- * @author Zheng Jie
+ * @author 披着床单的小王子
  * @date 2019-6-4 09:23:07
  */
 @Data

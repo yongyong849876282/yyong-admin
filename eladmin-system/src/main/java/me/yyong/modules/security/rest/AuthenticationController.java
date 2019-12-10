@@ -29,7 +29,7 @@ import org.springframework.web.bind.annotation.*;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author Zheng Jie
+ * @author 披着床单的小王子
  * @date 2018-11-23
  * 授权、根据token获取用户详细信息
  */

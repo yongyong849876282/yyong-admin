@@ -10,7 +10,7 @@ import java.sql.Timestamp;
 /**
  * pv 与 ip 统计
  *
- * @author Zheng Jie
+ * @author 披着床单的小王子
  * @date 2018-12-13
  */
 @Entity

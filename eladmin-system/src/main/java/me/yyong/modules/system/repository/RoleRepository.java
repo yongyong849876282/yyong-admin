@@ -8,7 +8,7 @@ import org.springframework.data.jpa.repository.Query;
 import java.util.Set;
 
 /**
- * @author Zheng Jie
+ * @author 披着床单的小王子
  * @date 2018-12-03
  */
 public interface RoleRepository extends JpaRepository<Role, Long>, JpaSpecificationExecutor<Role> {

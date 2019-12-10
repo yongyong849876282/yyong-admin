@@ -14,7 +14,7 @@ import java.util.Set;
 
 /**
  * 角色
- * @author Zheng Jie
+ * @author 披着床单的小王子
  * @date 2018-11-22
  */
 @Entity

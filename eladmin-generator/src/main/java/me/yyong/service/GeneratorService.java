@@ -5,7 +5,7 @@ import me.yyong.domain.vo.ColumnInfo;
 import java.util.List;
 
 /**
- * @author Zheng Jie
+ * @author 披着床单的小王子
  * @date 2019-01-02
  */
 public interface GeneratorService {

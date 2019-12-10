@@ -3,7 +3,7 @@ package me.yyong.exception;
 import org.springframework.util.StringUtils;
 
 /**
- * @author Zheng Jie
+ * @author 披着床单的小王子
  * @date 2018-11-23
  */
 public class EntityExistException extends RuntimeException {
